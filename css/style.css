@@ -1,0 +1,13 @@
+
+.luchadores {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.luchador img {
+    width: 10em;
+    height: 10em;
+    margin-left: 3em;
+    border: 1px solid red;
+}
